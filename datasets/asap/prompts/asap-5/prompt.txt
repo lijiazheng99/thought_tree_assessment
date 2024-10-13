@@ -1,0 +1,36 @@
+[Question]: 
+Starting with mRNA leaving the nucleus, list and describe four major steps involved in protein synthesis.
+
+[Key Elements]:
+mRNA exits nucleus via nuclear pore.
+mRNA travels through the cytoplasm to the ribosome or enters the rough endoplasmic reticulum.
+mRNA bases are read in triplets called codons (by rRNA).
+tRNA carrying the complementary (U=A, C+G) anticodon recognizes the complementary codon of the mRNA.
+The corresponding amino acids on the other end of the tRNA are bonded to adjacent tRNA’s amino acids.
+A new corresponding amino acid is added to the tRNA.
+Amino acids are linked together to make a protein beginning with a START codon in the P site (initiation).
+Amino acids continue to be linked until a STOP codon is read on the mRNA in the A site (elongation and termination).
+
+[Marking Rubric]:
+3 points: Four key elements;
+2 points: Three key elements;
+1 point: One or two key elements;
+0 points: Other.
+
+[Student Answer]: 1) The mRNA connects to the DNA. 2) Protein polymerse codes their basepairs. 3) Base pairs combine to DNA and mRNA. 4) There are 4 copies of DNA
+[Score and Rationale]: 0 points; The student answer has no key elements given.
+
+[Student Answer]: 1. mRNA leaves the nucleus. 2. mRNA creates amino acids 3. amino acids transcribe tRNA 4. tRNA is used to create proteins.
+[Score and Rationale]: 0 points; The student answer has no key elements given.
+
+[Student Answer]: 1) mRNA leaves the nucleus. 2) mRNA is transcribed 3) tRNA brings codons to match with anticondons 4) amino acids are assembled making proteins.
+[Score and Rationale]: 1 point; The student answer matches two key elements, “...tRNA brings codons to match with anticodons...” and “...amino acids are assembled making proteins...”.
+
+[Student Answer]: mRNA leaves the nucleus, where it joins with tRNA. TRNA reads mRNA, and create a protein based on the cofon that was read. The protein are continually created until tRNA hits a stop codon. The protein created are now in a protrin chains.
+[Score and Rationale]: 2 points; The student answer matches three key elements, “...tRNA reads mRNA...creates a protein based on the codon that was read...”, “...hits a stop codon...” and “...proteins created are now in a chain...”.
+
+[Student Answer]: The mRNA moves from the nucleus to ribosomes. Then, tRNA will match anticodons with mRNA codons. The tRNA molecules have amino acids attached to them, so the amino acids are bonded in the same order as the codons instructed. When the mRNA is done translating, the protein is formed.
+[Score and Rationale]: 3 points; The student answer matches four key elements, “...mRNA...from nucleus to ribosomes...”, “...tRNA will match anticodons with mRNA codons...”, “...tRNA...amino acids attached to them...” and “...amino acids are bonded in the same order as the codons instructed...”.
+
+[Student Answer]: After mRNA is transcribed in the nucleus, it leaves and goes into the ribosomes. Then the mRNA is paired with its anticodon carried by tRNA connected to an amino acid. As the mRNA gets translated the tRNA breaks off an its amino acid connects with the next tRNA molecule. This continues until there is a long chain of amino acids that forms a polypeptide, or protein.
+[Score and Rationale]: 3 points; The student answer matches four key elements, “...goes the ribosome...”, “...mRNA is paired with anticodon...”, “...mRNA is translated...” and “...amino acid connects...forms a polypeptide...”.

@@ -1,0 +1,36 @@
+[Question]: 
+List and describe three processes used by cells to control the movement of substances across the cell membrane.
+
+[Key elements]:
+Selective permeability is used by the cell membrane to allow certain substances to move across.
+Passive transport occurs when substances move from an area of higher concentration to an area of lower concentration.
+Osmosis is the diffusion of water across the cell membrane.
+Facilitated diffusion occurs when the membrane controls the pathway for a particle to enter or leave a cell.
+Active transport occurs when a cell uses energy to move a substance across the cell membrane, and/or a substance moves from an area of low to high concentration, or against the concentration gradient.
+Pumps are used to move charged particles like sodium and potassium ions through membranes using energy and carrier proteins.
+Membrane-assisted transport occurs when the membrane of the vesicle fuses with the cell membrane forcing large molecules out of the cell as in exocytosis.
+Membrane-assisted transport occurs when molecules are engulfed by the cell membrane as in endocytosis.
+Membrane-assisted transport occurs when vesicles are formed around large molecules as in phagocytosis.
+Membrane-assisted transport occurs when vesicles are formed around liquid droplets as in pinocytosis.
+Protein channels or channel proteins allow for the movement of specific molecules or substances into or out of the cell.
+
+[Marking Rubric]:
+3 points: Three key elements;
+2 points: Two key elements;
+1 point: One key element;
+0 points: Other.
+
+[Student Answer]: 1) OSMOSIS ONLY ALLOWS A CERTIAN AMOUNT OF WATER TO COLLECT IN THE CELL AT ONE TIME. 2) SELECTIVE MEMBRANE 3) PEREALBLE MEMBRANE
+[Score and Rationale]: 0 points; This student answer has incorrect explanation about "OSMOSIS..." and no explanation provided for "SELECTIVE MEMBRANE...".
+
+[Student Answer]: channel proteins which lets certain things in. Trasport proteins open and close and help transport certain things and diffusion brings things across the membrane.
+[Score and Rationale]: 1 point; This student answer matches one key element, "channel proteins...open and close and help transport certain things and diffusion brings things across the membrane".
+
+[Student Answer]: The processes that cells use to control the movement of substances across the cell membrane are all types of transports. They can use active transport, facilitated transport, and passive transport. Active transport is when the cell uses energy to move something in or out of the cell. Passive transport is the opposite of active transport as it does not use any energy to control what is entering and leaving the cell. Facilitated transport is when the cell carries the larger things in and out of the cell.
+[Score and Rationale]: 2 points; This student answer matches two key elements, "Active transport...cell uses energy" and "Passive transport...does not use any energy". The student answer didn't award any score on "Facilitated transport...", since the explanation is incomplete.
+
+[Student Answer]: -Osmosis is a process in which water travels along a selectively permeable membrane. -Diffusion is the process a cell uses in which particles move from an area of high concentration to an area of low concentration. -Active transport is a process in which the cell uses energy to move something from one part of the cell to another.
+[Score and Rationale]: 3 points; This student answer matches three key elements, "Osmosis... water travels along a selectively permeable membrane", "Diffusion... move from an area of high concentration to an area of low concentration" and "Active transport... uses energy"
+
+[Student Answer]: Osmosis; The diffusion of water across the cell membrane. Active transport; Movement across the cell membrane against the concentration gradient. Passive transport; Movement across the cell membrane without the use of energy.
+[Score and Rationale]: 3 points; This student answer matches three key elements, "Osmosis... diffusion of water", "Active transport... against the concentration gradient" and "Passive transport... without the use of energy"

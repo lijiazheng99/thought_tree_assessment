@@ -1,0 +1,16 @@
+data:
+  tree_path: ./outputs/good_query_result/gpt4/asap_6_validation_gpt-42_0506-0546.jsonl
+  path: ./data/datasets/
+  name: asap_6
+  input_column: Response
+  label_column: Mark
+  saving_path: ./outputs/generation_result/
+
+log:
+  path: ./outputs/logs/generation.log
+  enable: True
+
+llm: 
+  model: gpt-42
+  tempreture: 0.7
+  candidates: 8

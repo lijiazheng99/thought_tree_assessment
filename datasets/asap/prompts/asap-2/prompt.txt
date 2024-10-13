@@ -1,0 +1,67 @@
+[Question]: 
+A student performed the following investigation to test four different polymer plastics for stretchability.
+Procedure:
+1. Take a sample of one type of plastic, and measure its length.
+2. Tape the top edge of the plastic sample to a table so that it is hanging freely down the side of the table.
+3. Attach a clamp to the bottom edge of the plastic sample.
+4. Add weights to the clamp and allow them to hang for five minutes.
+5. Remove the weights and clamp, and measure the length of the plastic types.
+6. Repeat the procedure exactly for the remaining three plastic samples.
+7. Perform a second trial (T2) exactly like the first trial (T1).
+The student recorded the following data from the investigation.
+The table shows the amount of stretch (in millimeters) for four different types of plastic, labeled as A, B, C, and D, when subjected to two different stretching forces, labeled as T1 and T2.
+For plastic type A, it stretched 10mm under T1 and 12mm under T2.
+For plastic type B, it stretched 22mm under T1 and 23mm under T2.
+For plastic type C, it stretched 14mm under T1 and 13mm under T2.
+Lastly, for plastic type D, it stretched 20mm under both T1 and T2.
+a. Draw a conclusion based on the student’s data.
+b. Describe two ways the student could have improved the experimental design and/or validity of the results.
+
+[Key Elements]:
+Conclusions:
+Plastic sample B has more stretchability than the other polymer plastics.
+Plastic sample A has the least amount of stretchability compared to the other polymer plastics.
+Not all polymer plastics have the same stretchability.
+Different polymer plastics have different stretchability (and are therefore suited for different applications).
+A reasonable conclusion cannot be drawn due to procedural errors.
+Other reasonable conclusions 
+
+Experimental Design Improvements:
+Provide the before and after measurements for length (Did the samples all start out the same size?).
+Make sure the samples are all of the same thickness.
+Variations in thickness could have caused variations in stretchability.
+Perform additional trials.
+Some of the samples have similar stretchability (A and C, B and D).
+Two trials may not be enough to conclusively state that one is more stretchable than the other.
+Indicate how many weights were added to the clamps (Was it the same number for each sample?).
+Other acceptable responses
+
+[Marking Rubric]:
+3 points: The response draws a valid conclusion supported by the student’s data and describes two ways the student could have improved the experimental design and/or the validity of the results;
+2 points: The response draws a valid conclusion supported by the student’s data and describes one way the student could have improved the experimental design and/or the validity of the results. -or- The response describes two ways the student could have improved the experimental design and/or the validity of the results but fails to draw or incorrectly draws a conclusion from the student’s data;
+1 point: The response draws a valid conclusion supported by the student’s data but fails to describe, or incorrectly describes, how the student could have improved the experimental design and/or the validity of the results. -or- The response describes one way the student could have improved the experimental design and/or the validity of the results but fails to draw or incorrectly draws a conclusion from the student's data.;
+0 points: The response provides little or no correct information from the polymer investigation.
+
+[Student Answer]: Test 1 was good. Test 2 for plastic type A and B streched longer than Test 1. They could have had more different kinds of plastics and kept the weights on.
+[Score and Rationale]: 0 points; The student appears to be comparing trials rather than plastic types and does not provide a valid conclusion. “They could have had more different kinds of plastics and kept the weights on” are not valid ways to improve the experimental design and/or the validity of the results.
+
+[Student Answer]: a) In trial 1, the plastic type A wrap streched 10mm, the plastic type B wrap streched 22 mm, the plastic Type C wrap streched 14 mm and the plastic Type D wrap streched 20 mm. In trail 2, the A wrap streched 12 mm, the B wrap streched 23 mm, the C wrap stretched 13 mm, and the D wrap stretched 20 mm. b) The student could have improved the validity if tge results by stretching the plastic wraps to see which one stretched the longest.
+[Score and Rationale]: 0 points; The student repeats data from the chart and does not provide a valid conclusion. One way to improve the experimental design and/or the validity of the results is provided (“The student could have improved the validity of the results by stretching the plastic wraps to see which one stretched the longest.”), but it does not receive credit because it merely repeats part of the procedure for this investigation.
+
+[Student Answer]: A) based on the information, all of the polymers had simillar or the same amount stretched in the first and second trails. B) Two ways the student could have improved the experimental design would be by having a thrid trial, simply because ot couls have helped more for comparing results. Another way could have improved it would be by using another amout of time for comparrison. 
+[Score and Rationale]: 1 point; The student fails to provide an acceptable conclusion based on the data. Only a general comparison between the two trials is given. One correct way to improve the experimental design and/or the validity of the results is provided: “...by having a third trial....” The second improvement given, “...by using another amount of time for comparrison [sic],” is too vague to receive credit.
+
+[Student Answer]: The conclusion of this lab is that plastic B stretched the most. The student could have improved the experimental design by saying what type of plastic they used, and how high the table was that the plastic was hanging from.
+[Score and Rationale]: 1 point; The student provides an acceptable conclusion based on the data: “...plastic B stretched the most.” Two ways to improve the experimental design and/or the validity of the results are given, but they are irrelevant and do not receive credit: “...saying what type of plastic they used, and how high the table was that the plastic was hanging from.”
+
+[Student Answer]: I can draw from the students experiment that plastic type B was the strongest besed upon the data. One way that the student could have improved his investigation could be to give a specific length to cut the plastic pieces into as well as ti put into this procedure how much of the plastic should have been on the table where it was taped. These two changes could have made a ore clear experimental procedure.
+[Score and Rationale]: 2 points; This student provides an incorrect conclusion based on the student’s data: “...plastic type B was the strongest....” However, two correct ways to improve the experimental design and/or the validity of the results are given: “...give a specific length to cut the plastic pieces into as well as to put into his procedure how much of the plastic should have been on the table where it was taped.”
+
+[Student Answer]: A) Plastic type B is the most stretchable plastic of the four samples. In both trials is streched more mm than any of the other plastics. B) The first way the experiment could have been improved was by more throughly explaining the procedure. The second way the experiment could have been improved was by having more throughly explaining the procedures. Another way for imrpovement is by doing more trails. That will always give more accurate and more valide data.
+[Score and Rationale]: 2 points; The student provides an acceptable conclusion based on the data: “Plastic type B is the most stretchable plastic of the four samples.” One correct way to improve the experimental design and/or the validity of the results is given: “...by doing more trials.” Explaining the procedures more thoroughly is too vague to be considered an improvement to the experimental design and/or the validity of the results.
+
+[Student Answer]: Based on the students data, plastic type B stretched the most, plastic type D stretched the second most, plastic type C stretched the third most, and plastic type A stretched the least. Two ways that the students could have improved the experimental design/validity of the results are having a set weight of the weights added every 5 mintues, have a set length for the plastics at the start of the test.
+[Score and Rationale]: 3 points;  The student provides an acceptable conclusion based on the data: “...plastic type B stretched the most....” Two correct ways to improve the experimental design and/or validity of the results are given: “...having a set weight of the weights...” and “...have a set length for the plastics at the start of the test.” Adding weights every 5 minutes is a minor error and does not affect the final score of the response.
+
+[Student Answer]: The data shows that plastic B stretched the most being 22 mm T1 and 23 mm T2. The students could have made the experiment better if they did any more trail also they could have been more spacific in the there procedure for example they should have told you the amount of weight you add to the plastic.
+[Score and Rationale]: 3 points; The student provides an acceptable conclusion based on the data: “...plastic B stretched the most....” Two correct ways to improve the experimental design and/or the validity of the results are given: “...if they did one more trial...” and “...they should have told you the amount of weight you add to the plastic.”
