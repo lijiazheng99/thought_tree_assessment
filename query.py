@@ -158,7 +158,7 @@ def eval_only(eval_path):
 
 def main():
     parser = argparse.ArgumentParser(description="Tree of Thought Assessment")
-    parser.add_argument("--config", type=str, default="./configs/tot_query_2.yaml", help="Path to the config file")
+    parser.add_argument("--config", type=str, default="./configs/tot_query.yaml", help="Path to the config file")
     parser.add_argument("--index", type=int, help="Print specific index of the dataset.")
     parser.add_argument("--eval", type=str, default=None, help="Evaluate the results.")
     args = parser.parse_args()

@@ -1,0 +1,42 @@
+# model
+model_name_or_path: meta-llama/Meta-Llama-3-8B
+adapter_name_or_path: your_sft_model_path
+quantization_bit: 4
+
+# method
+stage: dpo
+do_train: true
+do_eval: true
+do_sample: false
+finetuning_type: lora
+lora_target: all
+dpo_ftx: 0.0
+
+# dataset
+dataset: your_dpo_dataset_name
+template: llama3
+cutoff_len: 1024
+val_size: 705
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+# output
+output_dir: your_dpo_model_path
+logging_steps: 10
+save_steps: 200
+plot_loss: true
+overwrite_output_dir: true
+
+# train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 0.00001
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+fp16: true
+
+# eval
+per_device_eval_batch_size: 1
+evaluation_strategy: steps
+eval_steps: 200
