@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+        <div class="navbar-menu">
+          <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+            <a class="navbar-item" href="https://jiazhengli.com">
+            <span class="icon">
+                <i class="fas fa-home"></i>
+            </span>
+            </a>
+          </div>
+      
+        </div>
+      </nav>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-2 publication-title">Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring</h1>
+
+          <section class="hero teaser">
+            <div class="container is-max-desktop">
+              <div class="hero-body">
+                <img src="./static/images/diagram.png"
+                         class="interpolation-image"
+                         alt="Interpolation end reference image."/>
+              </div>
+            </div>
+          </section>
+
+
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              Jiazheng Li<sup>1</sup>,</span>
+            <span class="author-block">
+               Hainiu Xu<sup>1</sup>,</span>
+            <span class="author-block">
+              Zhaoyue Sun<sup>1,4</sup>,</span>
+            <span class="author-block">
+              Yuxiang Zhou<sup>1</sup>,</span>
+            <span class="author-block">
+                David West<sup>2</sup>,</span>
+            <span class="author-block">
+              Cesare Aloisi<sup>2</sup>,</span>
+            <span class="author-block">
+              Yulan He<sup>1,3</sup></span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>King’s College London,</span>
+            <span class="author-block"><sup>2</sup>AQA,</span>
+            <span class="author-block"><sup>3</sup>The Alan Turing Institute,</span>
+            <span class="author-block"><sup>4</sup>University of Warwick</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2406.19949"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <!-- <span class="link-block">
+                <a href="https://arxiv.org/abs/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+              <!-- Video Link. -->
+              <!-- <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span> -->
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/lijiazheng99/thought_tree_assessment"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://huggingface.co/collections/jiazhengli/mcts-with-preference-optimisation-670bdeaeada59c956f876092"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>HuggingFace</span>
+                  </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Generating rationales that justify scoring decisions has been a promising way to facilitate explainability in automated scoring systems. However, existing methods do not match the accuracy of classifier-based methods. Plus, the generated rationales often contain hallucinated information. 
+          </p>
+          <p>
+            To address these issues, we propose a novel framework capable of generating more faithful rationales and, more importantly, matching performance with classifier-based black-box scoring systems. We first mimic the human assessment process by querying Large Language Models (LLMs) to generate a thought tree. We then summarise intermediate assessment decisions from each thought tree path for creating synthetic rationale data and rationale preference data. Finally, we utilise the generated synthetic data to calibrate LLMs through a two-step training process: supervised fine-tuning and preference optimization.
+          </p>
+          <p>
+            Extensive experimental results demonstrate that our framework achieves a 38% assessment performance improvement in the QWK score compared to prior work while producing higher-quality rationales, as recognised by human evaluators and LLMs. Our work sheds light on the effectiveness of performing preference optimization using synthetic preference data obtained from thought tree paths.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Concurrent Work. -->
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Other Related Works from Me</h2>
+
+        <div class="content has-text-justified">
+          <p>
+            We have other works that related to this paper:
+          </p>
+          <p>
+            <b>EMNLP 2023</b> <a href="https://arxiv.org/pdf/2305.12962">Distilling ChatGPT for Explainable Automated Student Answer Assessment</a> first work to generate assessment rationale using ChatGPT.
+          </p>
+          <p>
+            <a href="https://arxiv.org/pdf/2410.09507">AERA Chat: An Interactive Platform for
+                Automated Explainable Student Answer Assessment</a> an interactive platform for using or annotating LLM generated assessment rationales.
+          </p>
+          <p>
+            <b>EMNLP 2024</b> <a href="https://arxiv.org/pdf/2406.10957">Eliminating Biased Length Reliance of Direct Preference Optimization via Down-Sampled KL Divergence</a> we study the biased length reliance of direct preference optimization and propose a new efficient algorithm.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Concurrent Work. -->
+
+  </div>
+</section>
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@misc{li2024thoughttree,
+        title={Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring}, 
+        author={Jiazheng Li and Hainiu Xu and Zhaoyue Sun and Yuxiang Zhou and David West and Cesare Aloisi and Yulan He},
+        year={2024},
+        eprint={2406.19949},
+        archivePrefix={arXiv},
+        primaryClass={cs.CL},
+        url={https://arxiv.org/abs/2406.19949}, 
+  }</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+            <p>
+                This website is borrowed from <a href="https://nerfies.github.io/">Nerfies</a> and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution-ShareAlike 4.0 International License</a>.
+              </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
